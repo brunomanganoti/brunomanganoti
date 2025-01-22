@@ -6,5 +6,6 @@
 </div><br>
 
 <div>
-    <img height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomanganoti&theme=codeSTACKr&layout=compact&border_color=ff652f&langs_count=4&locale=pt-br&hide=html,css"/>
+    <img align="left" height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomanganoti&theme=codeSTACKr&layout=compact&border_color=ff652f&langs_count=4&locale=pt-br&hide=html,css"/>
+    <img align="right" src="https://i.gifer.com/Cjlx.gif"/>
 </div>
