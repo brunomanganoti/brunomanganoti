@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="75" height="75"/>
+  <img src="gif/Man Technologist Light Skin Tone.png" alt="Man Technologist Light Skin Tone" width="75" height="75"/>
   &nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=55&color=00D163&center=false&vCenter=true&width=500&height=60&duration=4500&pause=3000&lines=‎Bruno+Manganoti;"/>
 </h1>
 
