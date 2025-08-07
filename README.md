@@ -13,5 +13,5 @@
 
 <div>
     <img width=415 align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomanganoti&theme=holi&layout=compact&langs_count=6&locale=pt-br&hide=css"/>
-    <img width=300 align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWx2NjVlNzV6dDZvZHFhN2FqNDJkZDJ2eXp2czkwaGhrZm95eWk3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/51Wgzqz0OiNualf5lK/giphy.gif"/>
+    <img width=300 align="right" src="gif/dimebag.gif"/>
 </div>
