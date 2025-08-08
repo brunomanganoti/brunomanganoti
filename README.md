@@ -13,5 +13,5 @@
 
 <div>
     <img width=415 align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomanganoti&theme=holi&layout=compact&langs_count=6&locale=pt-br&hide=css"/>
-    <img width=300 align="right" src="gif/dimebag.gif"/>
+    <img width=300 align="right" src="gif/dimebag_.gif"/>
 </div>
