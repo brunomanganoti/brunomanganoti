@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>
+  <img src="gif/Man Technologist Light Skin Tone.png" alt="Man Technologist Light Skin Tone" width="75" height="75"/>
+  &nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=55&color=00D163&center=false&vCenter=true&width=500&height=60&duration=4500&pause=3000&lines=‎Bruno+Manganoti;"/>
+</h1>
 
-<!--
-**brunomanganoti/brunomanganoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div display="inline"> 
+  <a href="mailto:brunomanganoti@gmail.com"><img width=70 src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/bruno-manganoti"><img width=90 src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=black"/></a>‎
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/brunomanganoti"><img width=110 src="https://img.shields.io/badge/-Hackerrank-00D163?style=flat&logo=HackerRank&logoColor=white"/></a>
+</div><br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <img width=415 align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomanganoti&theme=github_dark&layout=compact&langs_count=6&locale=pt-br&hide=css"/>
+    <img width=300 align="right" src="gif/slayer.gif"/>
+</div>
