@@ -13,5 +13,5 @@
 
 <div>
     <img width=415 align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomanganoti&theme=github_dark&layout=compact&langs_count=6&locale=pt-br&hide=css"/>
-    <img width=300 align="right" src="gif/slayer.gif"/>
+    <img width=300 align="right" src="gif/metallica_metro.gif"/>
 </div>
