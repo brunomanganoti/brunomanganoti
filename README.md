@@ -16,4 +16,4 @@
     <img width=300 align="right" src="gif/metallica_metro.gif"/>
 </div>
 
-![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=brunomanganoti&hide_title=true&theme=gotham&point=e50914&area=true&hide_border=true&height=410&days=28)
+![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=brunomanganoti&hide_title=true&theme=gotham&point=e50914&line=00D163&area=true&hide_border=true&height=410&days=28)
