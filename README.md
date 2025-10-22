@@ -6,7 +6,7 @@
 <div display="inline"> 
   <a href="mailto:brunomanganoti@gmail.com"><img width=70 src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/bruno-manganoti"><img width=90 src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=black"/></a>‎
+  <a href="https://linkedin.com/in/bruno-manganoti/"><img width=90 src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=black"/></a>‎
   &nbsp;
   <a href="https://www.hackerrank.com/profile/brunomanganoti"><img width=110 src="https://img.shields.io/badge/-Hackerrank-00D163?style=flat&logo=HackerRank&logoColor=white"/></a>
 </div><br>
