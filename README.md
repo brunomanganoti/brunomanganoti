@@ -1,5 +1,5 @@
 <h1>
-  <img src="gif/Man Technologist Light Skin Tone.png" alt="Man Technologist Light Skin Tone" width="75" height="75"/>&nbsp;
+  <img src="gif\man-technologist-light-skin-tone.png" alt="Man Technologist Light Skin Tone" width="75" height="75"/>&nbsp;
   <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=65&color=2aa889&center=false&vCenter=true&width=500&height=60&duration=4500&pause=3000&lines=‎Bruno+Manganoti;"/>
 </h1>
 
