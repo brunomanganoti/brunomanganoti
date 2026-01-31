@@ -12,7 +12,7 @@
 </div><br>
 
 <div>
-    <img width=415 align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomanganoti&theme=gotham&border_color=2aa889&layout=compact&langs_count=6&locale=pt-br&hide=css"/>
+    <!-- <img width=415 align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomanganoti&theme=gotham&border_color=2aa889&layout=compact&langs_count=6&locale=pt-br&hide=css"/> -->
     <img width=415 align="left"  src="gif\stats.svg"/>
     <img width=300 align="right" src="gif/metallica_metro.gif"/>
 </div>
