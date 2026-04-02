@@ -1,5 +1,5 @@
 <h1>
-  <img src="gif\man-technologist-light-skin-tone.png" alt="Man Technologist Light Skin Tone" width="75" height="75"/>&nbsp;
+  <img src="gif/man-technologist-light-skin-tone.png" alt="Man Technologist Light Skin Tone" width="75" height="75"/>&nbsp;
   <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=65&color=2aa889&center=false&vCenter=true&width=500&height=60&duration=4500&pause=3000&lines=‎Bruno+Manganoti;"/>
 </h1>
 
@@ -13,7 +13,7 @@
 
 <div>
     <!-- <img width=415 align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomanganoti&theme=gotham&border_color=2aa889&layout=compact&langs_count=6&locale=pt-br&hide=css"/> -->
-    <img width=415 align="left"  src="gif\stats.svg"/>
+    <img width=415 align="left"  src="gif/stats.svg"/>
     <img width=300 align="right" src="gif/metallica_metro.gif"/>
 </div>
 
