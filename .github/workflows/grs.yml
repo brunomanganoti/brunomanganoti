@@ -4,11 +4,17 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Create profile folder
+        run: mkdir -p profile
 
       - name: Generate top langs card
         uses: readme-tools/github-readme-stats-action@v1
